@@ -66,9 +66,7 @@ The token launch will be distribution will be as follows:
 
 Tokens on sale will be fully unlocked.
 
-Seed Round Tokens sold in the seed round will be part of a bonded contract that can be made fully liquid by transferring them to an un-bonded contract, which will be applicable to a bridge fee schedule.
-
-Private Round Tokens sold in the private round will be full liquid and will be un-bonded to begin with.
+Seed Round and Private Round Tokens sold in the seed round will be part of a bonded contract that can be made fully liquid by transferring them to an un-bonded contract, which will be applicable to a bridge fee schedule.
 
 #### Will there be a lockup period for tokens allocated to the founding team?
 
@@ -80,13 +78,11 @@ Advisors and Key backers will have a lock up of 1 year with 25% being released h
 
 HELIS tokens purchased will be 100% unlocked upon Token Generation Event
 
-Tokens sold in the Seed Round have a disproportionate advantage over the Private Round, since Seed investors' early support for the project is important for us to develop the roadmap, a 'fair price' model has been put in place through the Bridge Fee mechanism where tokens from the Seed Round, if liquidated, will have to cross a bridge.
+Tokens sold in the Seed Round and Private Rounds have a 'fair price' model has put in place through the Bridge Fee mechanism where tokens from the both rounds, if liquidated, will have to cross a bridge.
 
-The bridge fee will be on a diminishing scale starting from 55% in the first month decreasing to 0% after 9 months. This will enable price equilibrium between the Seed and the Private rounds, while ensuring the token holders are incentivised to hold tokens whilst we build out the project and attain significant traction.
+The bridge fee will be on a diminishing scale starting from a certain percentage \(dependent on round\) in the first month decreasing to 0% after 9 months. This will enable ensure the token holders are incentivised to hold tokens whilst we build out the project and attain significant traction.
 
-Tokens from the seed round will be vested in a bonded contract, and any liquidity will materialise once the tokens are transferred to an un-bonded contract after paying the bridge fee.
-
-Bridge fee will not apply to the private round.
+Tokens from the seed round and private round will be vested in a bonded contract, and any liquidity will materialise once the tokens are transferred to an un-bonded contract after paying the bridge fee.
 
 #### Which cryptocurrencies will be accepted in the token launch?
 

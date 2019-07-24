@@ -10,7 +10,6 @@ description: "Here's all the different ways you can earn \U0001F43Cs:"
 | [Post DeFi news](tasks.md#post-defi-news) | 2  |
 | [Follow us on Twitter](tasks.md#follow-us-on-twitter) | 4  |
 | [Retweet anything about Helis](tasks.md#retweet-on-twitter) | 4 - 20  |
-| [Tweet about Helis](tasks.md#tweet-about-helis) | 20 - 60 |
 | [Introduce us to prospective customers](tasks.md#introduce-us-to-prospective-customers) | 10k |
 
 #### Conversion Rate: 1 🐼 = 1 HELIS token \($0.05\)
@@ -60,24 +59,9 @@ Retweet any content we Tweet from the [@HelisNetwork](http://twitter.com/helisne
 
 _Tiers_:
 
-* 50 - 100 followers = 4 🐼
-* 101 - 500 followers = 10 🐼
-* 500+ followers = 20🐼
-
-_Requirements_:
-
-* Can only be earned once per day
-* Must have verified Twitter account via Helis Panda Bot
-
-## Tweet about Helis
-
-Retweet any content we Tweet from the [@HelisNetwork](http://twitter.com/helisnetwork) account
-
-_Tiers_:
-
-* 500 - 1000 followers = 20 🐼
-* 1001 - 5000 followers = 40 🐼
-* 5000+ followers = 60 🐼
+* 50 - 250 followers = 4 🐼
+* 251 - 1,000 followers = 8 🐼
+* 1,000+ followers = 12🐼
 
 _Requirements_:
 
